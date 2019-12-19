@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "java.configuration.updateBuildConfiguration": "automatic",
   "files.exclude": {
@@ -11,3 +12,19 @@
     ".project": true
   }
 }
+=======
+{
+  "java.configuration.updateBuildConfiguration": "automatic",
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "bin/": true,
+    ".classpath": true,
+    ".project": true
+  },
+  "wpilib.online": true
+}
+>>>>>>> 9d31674da98d01eb2549ef98c14b07821631f7ce
